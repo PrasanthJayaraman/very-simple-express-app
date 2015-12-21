@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "express app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "goog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasanthJayaraman/very-simple-express-app.git"
+  },
+  "author": "prasanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasanthJayaraman/very-simple-express-app/issues"
+  },
+  "homepage": "https://github.com/PrasanthJayaraman/very-simple-express-app#readme"
+}
